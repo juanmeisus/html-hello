@@ -2,8 +2,13 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .post-header{
+    display:flex;
+    flex-direction: row;
     background-color:white;
     widht:1000px ;
     height:100px ;
     border-radius: 5px;
+}
+.horizontal{
+
 }
