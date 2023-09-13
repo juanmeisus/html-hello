@@ -29,6 +29,6 @@ body{
     flex-direction: row-reverse;
 }
 .post-img{
-    width:auto;
-    height:auto;
+    width:150px;
+    height:150px;
 }
