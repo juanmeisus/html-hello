@@ -28,3 +28,6 @@ body{
     display:flex;
     flex-direction: row-reverse;
 }
+.post-img{
+    widht:100%;
+}
