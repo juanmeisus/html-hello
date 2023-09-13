@@ -14,14 +14,13 @@ body{
 .vertical{
     display:flex;
     flex-direction: row ;
-    width: 30px;
-    height:30px;
+    width: 60px;
+    height:60px;
 
 }
 .horizontal{
     display:flex;
-
-    width:250px;
-    height:100px;
-    
+    flex-direction: column;
+    width:60px;
+    height:60px;   
 }
