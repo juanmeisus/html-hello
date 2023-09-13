@@ -7,14 +7,15 @@ body{
     justify-content: space-between;
     align-items: stretch;
     gap:0,5rem;
-    background-color:white;
-    widht:300px ;
+    width:300px ;
     height:40px ;
-    border:solid 1px black;
+    
 }
 .vertical{
-    width: 100px;
-    height:100px;
+    display:flex;
+    flex-direction: row ;
+    width: 30px;
+    height:30px;
 
 }
 .horizontal{
