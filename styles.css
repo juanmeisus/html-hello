@@ -24,7 +24,7 @@ body{
     width:60px;
     height:60px;   
 }
-.fa-solid fa-sliders{
+.trespuntos{
     display:flex;
     flex-direction: row-reverse;
 }
