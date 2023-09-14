@@ -7,6 +7,7 @@ body{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    margin:4px;
       
 }
 .fa-brands fa-html5{
