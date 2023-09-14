@@ -9,9 +9,13 @@ body{
     align-items: stretch;
     gap:0,5rem;
     width:300px ;
-    height:40px ;
-    
+    height:40px ;   
 }
+.fa-brands fa-html5{
+    width:40px;
+    height:40px;
+}
+
 .vertical{
     display:flex;
     flex-direction: row ;
@@ -30,6 +34,6 @@ body{
     flex-direction: row-reverse;
 }
 .post-img{
-    width:40px;
-    height:40px;
+    width:380px;
+    height:430px;
 }
