@@ -49,6 +49,8 @@ img{
     width:200px;
     height: 60px;
     font-size: small;
+    margin:0;
+    padding: 0;
 }
 #p1{
     width: 85%;
