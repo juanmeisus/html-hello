@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
+    margin:auto;
 }
 .post-header{
     display:flex;
