@@ -34,6 +34,6 @@ body{
     flex-direction: row-reverse;
 }
 .post-img{
-    width:380px;
-    height:430px;
+    width:50%;
+    height:50%;
 }
