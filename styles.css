@@ -3,6 +3,8 @@ body{
     margin:auto;
     width:200px;
     height: 600px;
+    display:flex;
+    flex-direction: column;
 }
 .post-header{
     display:flex;
