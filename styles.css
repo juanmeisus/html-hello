@@ -38,12 +38,13 @@ img{
     width: 200px;
     height: 40px;
    display:flex;
-   flex-direction: colum;
+   flex-direction:column;
 }
 .post-icons{
     display:flex;
     flex-direction: row;
     align-items: center;
+    margin-top: 10px;
 }
 .parrafos{
     width:200px;
