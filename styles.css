@@ -17,19 +17,28 @@ body{
 }
 .horizontal{
     display:flex;
-    flex-direction: column;
+    flex-direction:column;
     width:60px;
     height:60px;   
 }
-.fa-brands fa-html5{
-    width:100%;
-    height:100%;
-}
-.trespuntos{
+.menu{
     display:flex;
     flex-direction: row-reverse;
 }
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
 .post-img{
-    width:50%;
-    height:50%;
+    width:200px;
+    height:200px;
+}
+.post-body{
+    widht: 200px;
+    height: 100px;
+}
+.post-icons{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
 }
