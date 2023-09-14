@@ -39,7 +39,8 @@ img{
 .post-body{
     width: 200px;
     height: 50px;
-    object-position: center;
+   display:flex;
+   flex-direction: colum;
 }
 .post-icons{
     display:flex;
