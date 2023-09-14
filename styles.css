@@ -4,9 +4,9 @@ body{
 }
 .post-header{
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
-    align-items: stretch;
+    align-items: center;
     gap:0,5rem;
     width:300px ;
     height:40px ;   
