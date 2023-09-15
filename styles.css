@@ -37,7 +37,6 @@ img{
     width:200px;
 }
 .post-body{
-    width: 200px;
    display:flex;
    flex-direction:column;
 
@@ -45,8 +44,6 @@ img{
 .post-icons{
     display:flex;
     flex-direction: row;
-
-    margin-top: 10px;
 }
 .parrafos{
     width:200px;
