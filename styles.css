@@ -35,11 +35,9 @@ img{
 }
 .post-img{
     width:200px;
-    height:200px;
 }
 .post-body{
     width: 200px;
-    height: 40px;
    display:flex;
    flex-direction:column;
 
@@ -47,12 +45,11 @@ img{
 .post-icons{
     display:flex;
     flex-direction: row;
-    align-items: center;
+
     margin-top: 10px;
 }
 .parrafos{
     width:200px;
-    height: 60px;
     font-size: small;
     text-align: center;
     margin:0;
